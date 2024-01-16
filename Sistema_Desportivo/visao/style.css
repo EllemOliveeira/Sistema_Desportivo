@@ -1,0 +1,44 @@
+/* styles.css */
+
+* {
+    margin: 0;
+    background-image: url("image/sport-07.jpg");
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    margin-top: 10%;
+    padding: 30px;
+    margin-left: 46%;
+    color: #ffff;
+    font-size: 25px;
+}
+
+.form {
+    color: #fff;
+    margin-left: 35%;
+    font-size: 25px;
+}
+
+#text {
+    margin: 10px;
+    background: #ffff;
+    font-size: 30px;
+    border-radius: 10px;
+    border-color: #fff;
+    color: black;
+}
+
+#button {
+    color: black;
+    margin-top: 10px;
+    font-size: 25px;
+    margin-left: 49%;
+    border-radius: 10px;
+    border-color: rgb(231, 224, 224);
+    background: #ffff;
+}
+
+input {
+    color: #fff;
+}

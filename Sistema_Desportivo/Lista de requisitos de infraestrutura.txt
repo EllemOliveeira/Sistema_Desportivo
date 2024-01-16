@@ -1,0 +1,6 @@
+-> Lista de requisitos de infraestrutura <-
+
+ Foi utilizado no desenvolvimento dessa aplicação o MySQL Workbench
+ Qual servidor de aplicação e versão ou sistema operacional é indicado para a execução
+do sistema.
+ Quais as linguagens e versões são uƟlizadas no sistema desenvolvido.
